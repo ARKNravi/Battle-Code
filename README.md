@@ -1,3 +1,5 @@
+# Project API Upload File/Image
+
 This is a backend API for managing user registration, authentication, profiles, and educational materials. It provides functionality for user registration, login, profile management, and CRUD operations on educational materials. The API uses **Express.js** for routing, **Supabase** for database interaction, and **JWT** for authentication.
 
 ## Project Structure
